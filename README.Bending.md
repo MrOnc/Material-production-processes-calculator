@@ -1,0 +1,3 @@
+Bu kod, bir bükme işlemi için gerekli hesaplamaları yapar. Kullanıcıdan bükme açısı, bükme yarıçapı, sac kalınlığı, bükülen bölgenin sağ ve sol uzunlukları gibi bilgileri alır. Verilen girdilere göre bükülen bölgenin işlem öncesi boyunu ve taslağın başlangıç boyunu hesaplar. Hesaplamalar sonucunda elde edilen değerler ekrana yazdırılır.
+
+This code performs calculations for a bending process. It takes inputs such as the bending angle, bending radius, sheet thickness, and lengths of the bent region on the right and left sides. Based on the provided inputs, it calculates the pre-bending length of the bent region and the initial length of the draft. The calculated values are then displayed on the screen.
